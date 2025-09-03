@@ -43,9 +43,10 @@ const Hero: React.FC = () => {
             </span>
           </h1>
 
-          <h2 className="text-xl md:text-2xl lg:text-3xl font-light mb-6">
-            Web Developer
-          </h2>
+          <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold mb-6">
+  Web Developer
+</h2>
+
 
           <p className="text-lg md:text-xl max-w-xl mb-10 text-gray-200">
             From vision to reality — turning ideas into inspiring websites
