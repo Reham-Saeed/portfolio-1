@@ -87,7 +87,7 @@ const About: React.FC = () => {
             </div>
 
             <a
-              href="https://www.simplilearn.com/ice9/free_resources_article_thumb/is_web_development_good_career.jpg"
+              href="https://drive.google.com/file/d/1x6egY9zH9kp-nvWGKv2fSuDIGg5CDfZP/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-full transition-colors duration-300 shadow-md hover:shadow-lg"
