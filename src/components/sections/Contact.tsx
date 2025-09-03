@@ -92,7 +92,7 @@ const Contact: React.FC = () => {
                   <Github size={20} />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/reham-saeed-6b8102329/"
+                  href="https://www.linkedin.com/in/reham-saeed1/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-gray-100 hover:bg-indigo-100 text-gray-700 hover:text-indigo-600 p-3 rounded-full transition-colors duration-300"
