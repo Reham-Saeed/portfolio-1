@@ -6,7 +6,7 @@ const About: React.FC = () => {
   const { ref, inView } = useInView({ threshold: 0.3 });
 
   return (
-    <section id="about" ref={ref} className="py-20 bg-white">
+    <section id="about" ref={ref} className="py-20 px-4 md:px-6 bg-white">
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex flex-col md:flex-row items-center">
           <div
