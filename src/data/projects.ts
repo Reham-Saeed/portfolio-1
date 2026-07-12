@@ -20,7 +20,7 @@ export const projects: Project[] = [
   tags: ['Angular 20', 'TypeScript', 'Tailwind CSS', 'REST APIs', 'Git', 'GitHub'],
   demoLink: 'YOUR_DEMO_LINK',
   codeLink: 'YOUR_GITHUB_LINK',
-}
+},
     {
     id: 3,
     title: 'Medical Center Web Application',
