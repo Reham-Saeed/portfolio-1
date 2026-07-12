@@ -11,8 +11,18 @@ export const projects: Project[] = [
     demoLink: 'https://ecommerce-app-six-flame.vercel.app',
     codeLink: 'https://github.com/Reham-Saeed/Ecommerce-app',
   },
-  {
-    id: 2,
+{
+  id: 2,
+  title: 'OurNest – Pregnancy Care Platform',
+  description:
+    'Developed an AI-powered pregnancy care platform that helps parents track pregnancy progress and manage baby care through an intuitive and responsive interface. Features include pregnancy and baby dashboards, task and reminder management, smart clinic assistance, exercise recommendations, and community support modules.',
+  image: 'https://i.pinimg.com/1200x/e5/eb/fb/e5ebfbef7c0cadcfea218cbf74341031.jpg',
+  tags: ['Angular 20', 'TypeScript', 'Tailwind CSS', 'REST APIs', 'Git', 'GitHub'],
+  demoLink: 'YOUR_DEMO_LINK',
+  codeLink: 'YOUR_GITHUB_LINK',
+}
+    {
+    id: 3,
     title: 'Medical Center Web Application',
     description:
       'Built a healthcare application with responsive design, real-time data handling, and secure authentication using Firebase. Features include doctor listings, department categorization, and online appointment booking for an improved patient experience.',
@@ -22,7 +32,7 @@ export const projects: Project[] = [
     codeLink: 'https://github.com/Reham-Saeed/medical-center',
   },
   {
-    id: 3,
+    id: 4,
     title: 'E-learning Platform',
     description:
       'Collaborated with a team to develop a scalable e-learning platform. My role included implementing lessons fetching with filtering for students, payment integration, and detailed lesson views, along with lesson management features in the admin dashboard.',
@@ -31,4 +41,6 @@ export const projects: Project[] = [
     demoLink: 'https://e-learning-six-phi.vercel.app', 
     codeLink: 'https://github.com/AhmedEmaad18/E-learning',
   },
+  
+  
 ];
