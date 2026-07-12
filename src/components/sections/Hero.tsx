@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
     <section
       id="hero"
       ref={ref}
-      className="min-h-screen flex items-center justify-center relative overflow-hidden bg-gradient-to-br from-indigo-950 via-purple-900 to-pink-900 text-white"
+      className="min-h-screen flex items-center justify-center relative overflow-hidden bg-gradient-to-br from-indigo-950 via-purple-900 to-pink-900 text-white px-4 md:px-6"
     >
       {/* Glowing Background Circles */}
       <div className="absolute inset-0">
