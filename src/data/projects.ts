@@ -16,10 +16,10 @@ export const projects: Project[] = [
   title: 'OurNest – Pregnancy Care Platform',
   description:
     'Developed an AI-powered pregnancy care platform that helps parents track pregnancy progress and manage baby care through an intuitive and responsive interface. Features include pregnancy and baby dashboards, task and reminder management, smart clinic assistance, exercise recommendations, and community support modules.',
-  image: 'https://i.pinimg.com/1200x/e5/eb/fb/e5ebfbef7c0cadcfea218cbf74341031.jpg',
-  tags: ['Angular 20', 'TypeScript', 'Tailwind CSS', 'REST APIs', 'Git', 'GitHub'],
-  demoLink: 'YOUR_DEMO_LINK',
-  codeLink: 'YOUR_GITHUB_LINK',
+  image: 'https://static.vecteezy.com/system/resources/thumbnails/052/878/847/small_2x/expecting-mother-holds-a-pregnancy-test-in-a-serene-setting-surrounded-by-hearts-and-plants-celebrating-new-beginnings-free-vector.jpg',
+  tags: ['Angular 20', 'Tailwind CSS', 'REST APIs'],
+  demoLink: 'https://drive.google.com/file/d/1Ku3JP4aJB26KnuXXFq5EkD2HbdtPVI6r/view?usp=sharing',
+  codeLink: 'https://github.com/Reham-Saeed/OurNest',
 },
     {
     id: 3,
