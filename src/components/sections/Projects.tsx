@@ -15,7 +15,7 @@ const Projects: React.FC = () => {
     <section
       id="projects"
       ref={ref}
-      className="py-20 bg-gray-50"
+      className="py-20 bg-gray-50 px-4 md:px-6"
     >
       <div className="container mx-auto px-4 md:px-6">
         <div className={`text-center mb-16 ${inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'} transition-all duration-700`}>
